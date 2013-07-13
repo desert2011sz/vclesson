@@ -1,0 +1,31 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Ex_MultiBar - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/Ex_MultiBar.res" /d "_DEBUG" /d "_AFXDLL" "C:\VC_Lesson\VC++\Chapter_6\Ex_MultiBar\Ex_MultiBar.rc"" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP130.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/Ex_MultiBar.pdb" /debug /machine:I386 /out:"Debug/Ex_MultiBar.exe" /pdbtype:sept 
+".\Debug\Ex_MultiBar.obj"
+".\Debug\StdAfx.obj"
+".\Debug\MainFrm.obj"
+".\Debug\Ex_MultiBarDoc.obj"
+".\Debug\Ex_MultiBarView.obj"
+".\Debug\Ex_MultiBar.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP130.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Linking...
+
+
+
+<h3>Results</h3>
+Ex_MultiBar.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
